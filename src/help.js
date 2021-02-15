@@ -116,7 +116,7 @@ desc : ativa o modo simih
 uso : *${prefix}simih 1* pra ativar o modo, e *${prefix}simih 0* pra desativar o modo simih
 note : Este comando so pode ser usado se você for admin do grupo\n🌾🌞🪐🌊✨
 
-          >Comandos recém atualizados<😎🤙🌾🌞🌊
+          >Comandos novos<😎🤙🌾🌞🌊
 
 🌾🌞🌊Comando : *${prefix}bomdia
 
@@ -160,6 +160,11 @@ Uso : mande ${prefix}ytmp4 e o link do vídeo do youtube
 
 🌊🐚🌕Comando : ${prefix}supporter🌊🐚🌕
 🌊🐚🌕Desc : mostra os carinhas q protegem o bot
+
+🔥🔥Recém atualizado🔥🔥
+
+🔥Comando : ${prefix}apkpremium🔥
+🔥Desc : mostra uma lista de apps Premium :0
 
 🌊🐚🌕DIGITE ${prefix}updates PRA VER AS ATUALIZAÇÕES DO BOT MAIS RECENTES
 
