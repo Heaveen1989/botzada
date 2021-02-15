@@ -59,7 +59,6 @@ http://www.mediafire.com/file/tm3wl3qs8oj3h7s/PixelLab+1.9.9+(com.imaginstudio.i
 http://www.mediafire.com/file/h3ul4l7w2g5ymjr/Ps+Touch+Plus.apk/file
 
 
-
 🔥Sportfy premium🔥
 http://www.mediafire.com/file/a43h5pthbxlx3z7/Spotify+v8.5.71.723+build+62919622.apk/file
 
@@ -70,6 +69,18 @@ http://www.mediafire.com/file/fbprzchi6wp6mix/Insta+Pro+atualizado.apk/file
 
 🔥Wallcraft papel de parede premium🔥
 http://www.mediafire.com/file/mjqpws2v7qzpwhx/Wallcraft-PREMIUM.apk/file
+
+
+🔥Power director premium🔥
+http://www.mediafire.com/file/l876wmh3yv7vb7a/PowerDirector-v5.4.2-Unlocked.apk/file
+
+
+🔥AirBrush premium🔥
+http://www.mediafire.com/file/nrvmsmnyk259n6v/AirBrush-Premium-4_8_0.apk/file
+
+
+🔥Youtube music premium🔥
+http://www.mediafire.com/file/xkjkh5zqy623gpt/YouTube+Music+4.07.51+(com.vanced.android.apps.youtube.music).apk/file
 `
 
 }
