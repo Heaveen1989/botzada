@@ -20,6 +20,7 @@ const fs = require('fs')
 const moment = require('moment-timezone')
 const { exec } = require('child_process')
 const fetch = require('node-fetch')
+const { apkpremium } = require('./src/apkpremium')
 const tiktod = require('tiktok-scraper')
 const ffmpeg = require('fluent-ffmpeg')
 const { removeBackgroundFromImageFile } = require('remove.bg')
@@ -184,6 +185,9 @@ break
 case 'supporters':
 					client.sendMessage(from, supporters(prefix), text)
 			break
+case 'apkpremium':
+								client.sendMessage(from, apkpremium(prefix, sender), text, {quoted: mek})
+										break
 							case 'destrava':
 								client.sendMessage(from, destrava(prefix, sender), text, {quoted: mek})
 										break
