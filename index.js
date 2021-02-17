@@ -947,7 +947,7 @@ case 'textodeneve':
 					}
 					break
                                 					case 'dono':
-if (args.length < 1) return reply('TrashфDkofcꪶ Número do meu dono😎🤙:WA.me/558494740630\n😎🤙Youtube do meu \ndono:https://youtube.com/channel/UCOqlFzRrB8IZUWUx1cwCeUw\n \nNúmero da cremosa do meu dono que ajudou a fazer o menu 😎🤙ঔৣ☬✞𝐓𝐫𝐚𝐬𝐡|𝐉𝐮𝐰 ✞☬ঔৣ: wa.me/558491093889')
+if (args.length < 1) return reply('TrashфDkofcꪶ Número do meu dono😎🤙:WA.me/5541997622725\n
                                         break
 case 'porno':
 if (args.length < 1) return reply('Meu dono proibiu o porno 😎🤙')
